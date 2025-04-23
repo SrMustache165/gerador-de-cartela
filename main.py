@@ -88,4 +88,4 @@ def gerar_pdf_com_cartelas(nome_arquivo, total_cartelas=100, titulo="BINGO DA LA
     print(f"PDF gerado com sucesso: {nome_arquivo}")
 
 # Gerar cartelas espacadas em um único PDF
-gerar_pdf_com_cartelas("cartelas_bingo_espacadas.pdf", total_cartelas=100, titulo="BINGO DA LARI 2025")
+gerar_pdf_com_cartelas("cartelas_bingo.pdf", total_cartelas=100, titulo="BINGO DA LARI 2025")
